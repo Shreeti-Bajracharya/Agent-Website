@@ -9,9 +9,10 @@ const Hero = () => {
             <p className='text-xs font-medium'>Trusted by 10k+ people</p>
         </div>
 
-        <h1 className='text-4xl sm:text-5xl md:text-6xl xl:text-[84px] font-medium xl:leading-[95px] max-w-5xl'>Turning Imagination into <br /> <span className='bg-gradient-to-r from-[#5044E5] to-[#4d8cea] bg-clip-text text-transparent'>Digital</span> Impact.</h1>
+        <h1 className='text-4xl sm:text-5xl md:text-6xl xl:text-[84px] font-medium xl:leading-[95px] max-w-5xl'>Innovating the Future,  of <br /> <span className='bg-gradient-to-r from-[#5044E5] to-[#4d8cea] bg-clip-text text-transparent'>One Line</span> Code at a Time.</h1>
 
-        <p className='text-sm sm:text-lg font-medium text-gray-500 dark:text-white/75 max-w-4/5 sm:max-w-lg pb-3'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti mollitia vero rem excepturi ducimus nemo voluptatibus veritatis id assumenda. Voluptates facere beatae quod ipsum unde autem enim saepe nesciunt hic!</p>
+        <p className='text-sm sm:text-lg font-medium text-gray-500 dark:text-white/75 max-w-4/5 sm:max-w-lg pb-3'>At SB Technologies, we turn complex ideas into intelligent digital solutions.
+From software to strategy — we help businesses grow, adapt, and lead in a digital-first world.</p>
 
         <div className='relative'>
             <img src={assets.hero_img} className='w-full max-w-6xl' alt="" />

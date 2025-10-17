@@ -33,7 +33,8 @@ const ContactUs = () => {
   };
   return (
     <div id='contact-us' className='flex flex-col items-center gap-7 px-4 sm:px-12 lg:px-24 xl-px-40 pt-30 text-gray-700 dark:text-white'>
-      <Title title='Reach Out to Us' desc='From strategy to execution we craft digital solutions that move your business forward.'/>
+      <Title title='Reach Out to Us' desc='We love collaborating with businesses that think forward.
+Have an idea, project, or challenge? Let’s make it happen.'/>
       <form onSubmit={onSubmit} className='grid sm:grid-cols-2 gap-3 sm:gap-5 max-w-2xl w-full'>
         <div>
             <p className='mb-2 text-sm font-medium'>Your Name</p>

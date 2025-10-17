@@ -6,23 +6,23 @@ const Services = () => {
 
     const servicesData=[
         {
-            title:'Advertising',
-            description:'We turn bold ideas into powerful digital solutions that connect, engage...',
+            title:'Software Development',
+            description:'Custom-built software tailored to your business needs — secure, efficient, and scalable.',
             icon:assets.ads_icon
         },
         {
-            title:'Content Marketing',
-            description:'We help you execute your plan and deliver results.',
+            title:'Web Design & Development',
+            description:'We create stunning, user-friendly websites that blend creativity with functionality.',
             icon:assets.marketing_icon
         },
         {
-            title:'Content Writing',
-            description:'We help you create marketing strategy that drives results.',
+            title:'Mobile App Solutions',
+            description:'From Android to iOS, we develop apps that deliver performance and exceptional user experiences.',
             icon:assets.content_icon
         },
         {
-            title:'Social Media',
-            description:'We help you build a strong social media presence and engage with your audience',
+            title:'IT Consulting & Security',
+            description:'Future-proof your business with our strategic IT guidance and cybersecurity expertise.',
             icon:assets.social_icon
         },
     ]
